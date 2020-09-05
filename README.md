@@ -1,5 +1,5 @@
 # BlodsbroderObsidianPortal
-Detta är Bildbiblioteket till Brodsbrödernas bilder som inte passar på Obsidian portal
+Detta är Bildbiblioteket till Brodsbrödernas bilder som inte passar på Obsidian portal.
 För att få addressen till en bild gå in til bilden och högerklicka. Välj sedan "kopiera bildaress" detta ger dig det du vill lägga in på
 obsidian portal sidan.
 
